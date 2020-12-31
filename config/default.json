@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://rashi123:rashi123@docappointment.nantc.mongodb.net/<dbname>?retryWrites=true"
+    
+}
